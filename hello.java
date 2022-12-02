@@ -5,5 +5,6 @@ public class hello {
         System.out.println("Jenkins Git Github!");
         System.out.println("Change 1 in code");
         System.out.println("Change 2 in code trigger");
+        System.out.println("Change 3. Git trigger using SCM!");
     }
 }
